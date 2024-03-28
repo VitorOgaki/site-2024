@@ -5,7 +5,12 @@ body
 background-image: linear-gradient(90deg, black; white );
  color: black;
  font-size: 12pt;
- font-family:Arial;
+ font-family:komoda;
 }
-
+h1
+{
+ color: black;
+ font-family:komoda;
+ {
+ 
  
